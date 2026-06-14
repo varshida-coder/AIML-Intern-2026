@@ -1,0 +1,16 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Total_Amount,Order_Date,Payment_Mode,City
+ORD001,Rahul,Laptop,Electronics,1,55000,55000,05-01-2026,UPI,Chennai
+ORD002,Priya,Smartphone,Electronics,2,18000,36000,08-01-2026,Card,Madurai
+ORD003,Arun,Shoes,Fashion,3,1500,4500,10-01-2026,Cash,Coimbatore
+ORD004,Divya,Watch,Accessories,2,2500,5000,12-01-2026,UPI,Trichy
+ORD005,Karthik,Headphones,Electronics,4,1200,4800,15-01-2026,Card,Chennai
+ORD006,Meera,Saree,Fashion,2,3000,6000,18-01-2026,UPI,Salem
+ORD007,Vikram,Tablet,Electronics,1,25000,25000,20-01-2026,Net Banking,Madurai
+ORD008,Sneha,Handbag,Accessories,3,1800,5400,22-01-2026,Card,Chennai
+ORD009,Naveen,T-Shirt,Fashion,5,700,3500,25-01-2026,UPI,Erode
+ORD010,Pooja,Smart Watch,Electronics,2,6000,12000,28-01-2026,Card,Coimbatore
+ORD011,Ajay,Books,Education,6,500,3000,02-02-2026,UPI,Trichy
+ORD012,Kavya,Printer,Electronics,1,9000,9000,05-02-2026,Net Banking,Chennai
+ORD013,Sanjay,Backpack,Accessories,2,2200,4400,08-02-2026,Cash,Madurai
+ORD014,Anjali,Kurti,Fashion,4,1200,4800,10-02-2026,UPI,Salem
+ORD015,Rakesh,Monitor,Electronics,2,11000,22000,12-02-2026,Card,Chennai

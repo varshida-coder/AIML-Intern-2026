@@ -1,0 +1,26 @@
+Date,Month,Product_Name,Category,Unit_Price,Quantity_Sold,Revenue,Cost_Price,Profit,Customer_City,Sales_Channel
+01-06-2026,June,Badam,Nuts,450,12,5400,350,1200,Chennai,WhatsApp
+02-06-2026,June,Pista,Nuts,550,10,5500,420,1300,Madurai,Instagram
+03-06-2026,June,Cashew,Nuts,480,15,7200,380,1500,Trichy,Direct
+04-06-2026,June,Black Grapes,Dry Fruits,300,18,5400,220,1440,Chennai,WhatsApp
+05-06-2026,June,Golden Kismis,Dry Fruits,350,20,7000,250,2000,Coimbatore,Instagram
+06-06-2026,June,Black Dates,Dry Fruits,400,14,5600,300,1400,Salem,Direct
+07-06-2026,June,Chilli Cashew,Flavored Nuts,520,11,5720,400,1320,Chennai,WhatsApp
+08-06-2026,June,Dry Fig,Dry Fruits,650,8,5200,500,1200,Madurai,Instagram
+09-06-2026,June,Kiwi,Dry Fruits,700,7,4900,550,1050,Trichy,Direct
+10-06-2026,June,Sesame Oil,Oil,280,25,7000,210,1750,Chennai,WhatsApp
+11-06-2026,June,Vegetable Chips,Snacks,150,30,4500,100,1500,Coimbatore,Instagram
+12-06-2026,June,Fruits Chips,Snacks,180,28,5040,120,1680,Salem,Direct
+13-06-2026,June,Nuts with Honey,Healthy Mix,750,9,6750,600,1350,Chennai,WhatsApp
+14-06-2026,June,Badam,Nuts,450,16,7200,350,1600,Madurai,Instagram
+15-06-2026,June,Pista,Nuts,550,9,4950,420,1170,Trichy,Direct
+16-06-2026,June,Cashew,Nuts,480,18,8640,380,1800,Chennai,WhatsApp
+17-06-2026,June,Golden Kismis,Dry Fruits,350,22,7700,250,2200,Coimbatore,Instagram
+18-06-2026,June,Black Dates,Dry Fruits,400,17,6800,300,1700,Salem,Direct
+19-06-2026,June,Chilli Cashew,Flavored Nuts,520,13,6760,400,1560,Chennai,WhatsApp
+20-06-2026,June,Dry Fig,Dry Fruits,650,10,6500,500,1500,Madurai,Instagram
+21-06-2026,June,Kiwi,Dry Fruits,700,8,5600,550,1200,Trichy,Direct
+22-06-2026,June,Sesame Oil,Oil,280,32,8960,210,2240,Chennai,WhatsApp
+23-06-2026,June,Vegetable Chips,Snacks,150,35,5250,100,1750,Coimbatore,Instagram
+24-06-2026,June,Fruits Chips,Snacks,180,31,5580,120,1860,Salem,Direct
+25-06-2026,June,Nuts with Honey,Healthy Mix,750,12,9000,600,1800,Chennai,WhatsApp

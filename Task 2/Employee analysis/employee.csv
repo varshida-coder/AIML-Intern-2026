@@ -1,0 +1,16 @@
+Employee_ID,Employee_Name,Age,Department,Designation,Salary,Experience_Years,Performance_Rating
+EMP001,Arun Kumar,24,IT,Developer,35000,2,4.2
+EMP002,Priya Sharma,28,HR,HR Executive,42000,5,4.5
+EMP003,Karthik Raj,31,Finance,Accountant,50000,8,4.1
+EMP004,Divya Nair,26,Sales,Sales Executive,38000,3,4.3
+EMP005,Rahul Verma,35,IT,Team Lead,75000,11,4.8
+EMP006,Sneha Patel,29,Marketing,Marketing Executive,45000,6,4.4
+EMP007,Vikram Singh,32,Operations,Operations Manager,68000,9,4.6
+EMP008,Meera Iyer,25,IT,Software Tester,36000,2,4
+EMP009,Ajay Kumar,27,Sales,Sales Associate,40000,4,4.2
+EMP010,Kavya Reddy,30,Finance,Financial Analyst,55000,7,4.5
+EMP011,Naveen Das,34,IT,Senior Developer,70000,10,4.7
+EMP012,Pooja Sharma,23,HR,Recruiter,32000,1,3.9
+EMP013,Sanjay Gupta,36,Operations,Supervisor,62000,12,4.4
+EMP014,Anjali Menon,28,Marketing,Content Specialist,47000,5,4.3
+EMP015,Rakesh Kumar,33,IT,System Administrator,58000,8,4.6
